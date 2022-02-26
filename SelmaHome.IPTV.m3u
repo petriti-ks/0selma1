@@ -15,41 +15,22 @@ http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4583
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1990
 #EXTINF:-1 tvg-id="" tvg-name="AL:RTK 4 HD" tvg-logo="" group-title="ALBANIEN",AL:RTK 4 HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4584
-
 #EXTINF:-1 tvg-id="" tvg-name="AL:21 HD" tvg-logo="" group-title="ALBANIEN",AL:21 HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24101
 #EXTINF:-1 tvg-id="" tvg-name="AL:KTV HD" tvg-logo="" group-title="ALBANIEN",AL:KTV HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24088
-#EXTINF:-1 tvg-id="" tvg-name="AL:Klan TV" tvg-logo="" group-title="ALBANIEN",AL:Klan TV
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24089
 #EXTINF:-1 tvg-id="" tvg-name="AL:Klan Kosova" tvg-logo="" group-title="ALBANIEN",AL:Klan Kosova
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24090
-#EXTINF:-1 tvg-id="" tvg-name="AL:Alsat M" tvg-logo="" group-title="ALBANIEN",AL:Alsat M
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24099
 #EXTINF:-1 tvg-id="" tvg-name="AL:TV Dukagjini" tvg-logo="" group-title="ALBANIEN",AL:TV Dukagjini
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24066
-
-#EXTINF:-1 tvg-id="" tvg-name="XK:RTV ZiK" tvg-logo="" group-title="KOSOVA",XK:RTV ZiK
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1992
-#EXTINF:-1 tvg-id="" tvg-name="XK:RTV Puls" tvg-logo="" group-title="KOSOVA",XK:RTV Puls
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1991
-#EXTINF:-1 tvg-id="" tvg-name="XK:TV Opoja" tvg-logo="" group-title="KOSOVA",XK:TV Opoja
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1995
-#EXTINF:-1 tvg-id="" tvg-name="MNE:Tehnikatv 777" tvg-logo="" group-title="MONTENEGRO",MNE:Tehnikatv 777
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24138
-#EXTINF:-1 tvg-id="" tvg-name="XK:TV Dielli" tvg-logo="" group-title="KOSOVA",XK:TV Dielli
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1994
-#EXTINF:-1 tvg-id="" tvg-name="XK:Syri Vision" tvg-logo="" group-title="KOSOVA",XK:Syri Vision
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1993
-#EXTINF:-1 tvg-id="" tvg-name="XK:Rrokum" tvg-logo="" group-title="KOSOVA",XK:Rrokum
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1987
-#EXTINF:-1 tvg-id="" tvg-name="XK:Dasma" tvg-logo="" group-title="KOSOVA",XK:Dasma
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1982
-#EXTINF:-1 tvg-id="" tvg-name="XK:KUJTESA SPORTS 1HD" tvg-logo="" group-title="ALL SPORT",XK:KUJTESA SPORTS 1HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1983
-#EXTINF:-1 tvg-id="" tvg-name="XK:KUJTESA SPORTS 2HD" tvg-logo="" group-title="ALL SPORT",XK:KUJTESA SPORTS 2HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1984
-
+#EXTINF:-1 tvg-id="" tvg-name="AL:Top Channel" tvg-logo="" group-title="ALBANIEN",AL:Top Channel
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24082
+#EXTINF:-1 tvg-id="" tvg-name="AL:Klan TV" tvg-logo="" group-title="ALBANIEN",AL:Klan TV
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24089
+#EXTINF:-1 tvg-id="" tvg-name="AL:Alsat M" tvg-logo="" group-title="ALBANIEN",AL:Alsat M
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24099
+#EXTINF:-1 tvg-id="" tvg-name="AL:NEW 24" tvg-logo="" group-title="ALBANIEN",AL:NEWS 24
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/753
 #EXTINF:-1 tvg-id="" tvg-name="AL:RTSH 1" tvg-logo="" group-title="ALBANIEN",AL:RTSH 1
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4588
 #EXTINF:-1 tvg-id="" tvg-name="AL:RTSH 2" tvg-logo="" group-title="ALBANIEN",AL:RTSH 2
@@ -80,95 +61,82 @@ http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4602
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4586
 #EXTINF:-1 tvg-id="" tvg-name="AL:RTSH AGRO" tvg-logo="" group-title="ALBANIEN",AL:RTSH AGRO
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4580
-#EXTINF:-1 tvg-id="" tvg-name="AL:RTSH Sport" tvg-logo="" group-title="ALBANIEN",AL:RTSH Sport
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24087
+
 #EXTINF:-1 tvg-id="" tvg-name="AL:TV Dielli" tvg-logo="" group-title="ALBANIEN",AL:TV Dielli
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4593
 #EXTINF:-1 tvg-id="" tvg-name="AL:First Channel HD" tvg-logo="" group-title="ALBANIEN",AL:First Channel HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4599
-#EXTINF:-1 tvg-id="" tvg-name="AL:TV 7" tvg-logo="" group-title="ALBANIEN",AL:TV 7
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4594
-#EXTINF:-1 tvg-id="" tvg-name="AL:Living" tvg-logo="" group-title="ALBANIEN",AL:Living
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4595
 #EXTINF:-1 tvg-id="" tvg-name="AL:Uskana" tvg-logo="" group-title="ALBANIEN",AL:Uskana
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24062
-#EXTINF:-1 tvg-id="" tvg-name="AL:SYRI LIVE" tvg-logo="" group-title="ALBANIEN",AL:SYRI LIVE
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24139
-#EXTINF:-1 tvg-id="" tvg-name="AL:TEMA" tvg-logo="https://lh6.googleusercontent.com/proxy/zszq7A8BMJ_BgvxVxpaHGLszLLBgNGmGwn3C98YmXwqebfnu4FLMn1LatMsUfe6U5HLBSk3NZF6SCfyj-o0MoqFjVOcx0w=s0-d" group-title="ALBANIEN",AL:TEMA
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24141
-#EXTINF:-1 tvg-id="" tvg-name="AL:TV Humor" tvg-logo="" group-title="ALBANIEN",AL:TV Humor
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24065
-
+EXTINF:-1 tvg-id="" tvg-name="XK:RTV ZiK" tvg-logo="" group-title="KOSOVA",XK:RTV Ziko
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1992
+#EXTINF:-1 tvg-id="" tvg-name="XK:TV Dielli" tvg-logo="" group-title="KOSOVA",XK:TV Dielli
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1994
+#EXTINF:-1 tvg-id="" tvg-name="XK:Dasma" tvg-logo="" group-title="KOSOVA",XK:Dasma
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1982://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24139
 #EXTINF:-1 tvg-id="" tvg-name="AL:TV Drita" tvg-logo="" group-title="ALBANIEN",AL:TV Drita
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24067
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring World" tvg-logo="" group-title="ALBANIEN",AL:Tring World
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24068
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Tring" tvg-logo="" group-title="ALBANIEN",AL:Tring Tring
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24069
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Super" tvg-logo="" group-title="ALBANIEN",AL:Tring Super
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24070
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Smile" tvg-logo="" group-title="ALBANIEN",AL:Tring Smile
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24071
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Shqip" tvg-logo="" group-title="ALBANIEN",AL:Tring Shqip
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24072
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Planet" tvg-logo="" group-title="ALBANIEN",AL:Tring Planet
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24073
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring MAX" tvg-logo="" group-title="ALBANIEN",AL:Tring MAX
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24074
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Living HD" tvg-logo="" group-title="ALBANIEN",AL:Tring Living HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24075
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Life" tvg-logo="" group-title="ALBANIEN",AL:Tring Life
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24076
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Kids" tvg-logo="" group-title="ALBANIEN",AL:Tring Kids
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24077
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring History" tvg-logo="" group-title="ALBANIEN",AL:Tring History
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24078
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Fantasy" tvg-logo="" group-title="ALBANIEN",AL:Tring Fantasy
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24079
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Comedy" tvg-logo="" group-title="ALBANIEN",AL:Tring Comedy
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24080
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring 3 Plus" tvg-logo="" group-title="ALBANIEN",AL:Tring 3 Plus
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24081
-#EXTINF:-1 tvg-id="" tvg-name="AL:Top Channel" tvg-logo="" group-title="ALBANIEN",AL:Top Channel
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24082
-#EXTINF:-1 tvg-id="" tvg-name="AL:Film Thriller" tvg-logo="" group-title="ALBANIEN",AL:Film Thriller
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24091
-#EXTINF:-1 tvg-id="" tvg-name="AL:Film NJE HD" tvg-logo="" group-title="ALBANIEN",AL:Film NJE HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24092
-#EXTINF:-1 tvg-id="" tvg-name="AL:Film Komedi" tvg-logo="" group-title="ALBANIEN",AL:Film Komedi
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24093
-#EXTINF:-1 tvg-id="" tvg-name="AL:Film Hits" tvg-logo="" group-title="ALBANIEN",AL:Film Hits
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24094
-#EXTINF:-1 tvg-id="" tvg-name="AL:Film DY HD" tvg-logo="" group-title="ALBANIEN",AL:Film DY HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24095
-#EXTINF:-1 tvg-id="" tvg-name="AL:Film Drame" tvg-logo="" group-title="ALBANIEN",AL:Film Drame
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24096
-#EXTINF:-1 tvg-id="" tvg-name="AL:Film Aksion" tvg-logo="" group-title="ALBANIEN",AL:Film Aksion
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24097
 #EXTINF:-1 tvg-id="" tvg-name="AL:BBF Music" tvg-logo="" group-title="ALBANIEN",AL:BBF Music
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24098
-
-#EXTINF:-1 tvg-id="" tvg-name="AL:Jolly HD" tvg-logo="" group-title="ALBANIEN",AL:Jolly HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4581
-#EXTINF:-1 tvg-id="" tvg-name="AL:RTV ISLAM" tvg-logo="" group-title="ALBANIEN",AL:RTV ISLAM
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4587
-#EXTINF:-1 tvg-id="" tvg-name="AL:KOHA TV" tvg-logo="" group-title="ALBANIEN",AL:KOHA TV
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4596
 #EXTINF:-1 tvg-id="" tvg-name="AL:NTV" tvg-logo="" group-title="ALBANIEN",AL:NTV
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4603
-#EXTINF:-1 tvg-id="" tvg-name="AL:BN CHANNEL" tvg-logo="" group-title="ALBANIEN",AL:BN CHANNEL
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4604
 #EXTINF:-1 tvg-id="" tvg-name="AL:ALBUK TV HD" tvg-logo="" group-title="ALBANIEN",AL:ALBUK TV HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4579
 #EXTINF:-1 tvg-id="" tvg-name="AL:DASMA" tvg-logo="" group-title="ALBANIEN",AL:DASMA
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/754
-#EXTINF:-1 tvg-id="" tvg-name="AL:NEW 24" tvg-logo="" group-title="ALBANIEN",AL:NEW 24
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/753
-#EXTINF:-1 tvg-id="" tvg-name="AL:ALBAN ALPO RADIO" tvg-logo="" group-title="ALBANIEN",AL:ALBAN ALPO RADIO
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4578
-#EXTINF:-1 tvg-id="" tvg-name="AL:Filmbox Premium HD" tvg-logo="" group-title="ALBANIEN",AL:Filmbox Premium HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4600
+#EXTINF:-1 tvg-id="" tvg-name="AL:RTV ISLAM" tvg-logo="" group-title="ALBANIEN",AL:RTV ISLAM
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4587
+#EXTINF:-1 tvg-id="" tvg-name="XK:TV Opoja" tvg-logo="" group-title="KOSOVA",XK:TV Opoja
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1995
+#EXTINF:-1 tvg-id="" tvg-name="AL:Film Aksion" tvg-logo="" group-title="ALBANIEN",AL:Film Aksion
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24097
+#EXTINF:-1 tvg-id="" tvg-name="AL:Film Thriller" tvg-logo="" group-title="ALBANIEN",AL:Film Thriller
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24091
+#EXTINF:-1 tvg-id="" tvg-name="AL:Film NJE HD" tvg-logo="" group-title="ALBANIEN",AL:Film Gold HD
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24092
+#EXTINF:-1 tvg-id="" tvg-name="AL:Film DY HD" tvg-logo="" group-title="ALBANIEN",AL:Film Max HD
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24095
+#EXTINF:-1 tvg-id="" tvg-name="AL:Film Komedi" tvg-logo="" group-title="ALBANIEN",AL:Film Komedi
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24093
+#EXTINF:-1 tvg-id="" tvg-name="AL:Film Hits" tvg-logo="" group-title="ALBANIEN",AL:Film Hits
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24094
+#EXTINF:-1 tvg-id="" tvg-name="AL:Film Drame" tvg-logo="" group-title="ALBANIEN",AL:Film Drame
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24096
 
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Shqip" tvg-logo="" group-title="ALBANIEN",AL:Tring Shqip
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24072
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring MAX" tvg-logo="" group-title="ALBANIEN",AL:Tring Action
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24074
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Fantasy" tvg-logo="" group-title="ALBANIEN",AL:Tring Fantasy
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24079
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Super" tvg-logo="" group-title="ALBANIEN",AL:Tring Super
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24070
+#EXTINF:-1 tvg-id="" tvg-name="AL:Jolly HD" tvg-logo="" group-title="ALBANIEN",AL:Jolly HD
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4581
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Smile" tvg-logo="" group-title="ALBANIEN",AL:Tring Smile
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24071
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Life" tvg-logo="" group-title="ALBANIEN",AL:Tring Life
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24076
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Comedy" tvg-logo="" group-title="ALBANIEN",AL:Tring Comedy
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24080
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring 3 Plus" tvg-logo="" group-title="ALBANIEN",AL:Tring 3 Plus
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24081
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Tring" tvg-logo="" group-title="ALBANIEN",AL:Tring Tring
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24069
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Kids" tvg-logo="" group-title="ALBANIEN",AL:Tring Kids
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24077
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring History" tvg-logo="" group-title="ALBANIEN",AL:Tring History
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24078
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Planet" tvg-logo="" group-title="ALBANIEN",AL:Tring Planet
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24073
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring World" tvg-logo="" group-title="ALBANIEN",AL:Tring World
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24068
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL:RTSH Sport" tvg-logo="" group-title="ALBANIEN",AL:RTSH Sport
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24087
 #EXTINF:-1 tvg-id="" tvg-name="AL:SUPERSPORT 1 HD" tvg-logo="" group-title="ALL SPORT",AL:SUPERSPORT 1 HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1088
 #EXTINF:-1 tvg-id="" tvg-name="AL:SUPERSPORT 2 HD" tvg-logo="" group-title="ALL SPORT",AL:SUPERSPORT 2 HD
@@ -185,7 +153,10 @@ http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1085
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1086
 #EXTINF:-1 tvg-id="" tvg-name="AL:TRING SPORT 4HD" tvg-logo="" group-title="ALL SPORT",AL:TRING SPORT 4HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1087
-
+#EXTINF:-1 tvg-id="" tvg-name="XK:KUJTESA SPORTS 1HD" tvg-logo="" group-title="ALL SPORT",XK:KUJTESA SPORTS 1HD
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1983
+#EXTINF:-1 tvg-id="" tvg-name="XK:KUJTESA SPORTS 2HD" tvg-logo="" group-title="ALL SPORT",XK:KUJTESA SPORTS 2HD
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1984
 #EXTINF:-1 tvg-id="" tvg-name="*****GERMANY CHANNEL*****" tvg-logo="http://aux2.iconspalace.com/uploads/424097756.png" group-title="GERMANY",*****GERMANY CHANNEL*****
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4947
 #EXTINF:-1 tvg-id="812" tvg-name="DE:ZDF" tvg-logo="" group-title="GERMANY",DE:ZDF
@@ -786,6 +757,8 @@ http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/503
 
 #EXTINF:-1 tvg-id="" tvg-name="*****ITALIAN*****" tvg-logo="" group-title="ITALIAN",*****ITALIAN*****
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5014
+#EXTINF:-1 tvg-id="" tvg-name="ITA:MEDIASET EXTRA" tvg-logo="" group-title="ITALIAN",ITA:Grande Fratello VIP
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5020
 #EXTINF:-1 tvg-id="" tvg-name="ITA:Rai 1 HD" tvg-logo="" group-title="ITALIAN",ITA:Rai 1 HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/16270
 #EXTINF:-1 tvg-id="" tvg-name="ITA:Rai 2 HD" tvg-logo="" group-title="ITALIAN",ITA:Rai 2 HD
@@ -814,18 +787,9 @@ http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/16272
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/16273
 #EXTINF:-1 tvg-id="" tvg-name="ITA:REAL TIME" tvg-logo="" group-title="ITALIAN",ITA:REAL TIME
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5040
-#EXTINF:-1 tvg-id="" tvg-name="ITA:MEDIASET EXTRA" tvg-logo="" group-title="ITALIAN",ITA:MEDIASET EXTRA
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5020
-#EXTINF:-1 tvg-id="" tvg-name="ITA:FOX HD" tvg-logo="" group-title="ITALIAN",ITA:FOX HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5021
-#EXTINF:-1 tvg-id="" tvg-name="ITA:EUROSPORT 1 HD" tvg-logo="" group-title="ALL SPORT",ITA:EUROSPORT 1 HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5023
-#EXTINF:-1 tvg-id="" tvg-name="ITA:EUROSPORT 2 HD" tvg-logo="" group-title="ALL SPORT",ITA:EUROSPORT 2 HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5022
-#EXTINF:-1 tvg-id="" tvg-name="ITA:TGCOM24" tvg-logo="" group-title="ITALIAN",ITA:TGCOM24
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5025
-#EXTINF:-1 tvg-id="" tvg-name="ITA:BOING" tvg-logo="" group-title="ITALIAN",ITA:BOING
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5026
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ITA:TV2000" tvg-logo="" group-title="ITALIAN",ITA:TV2000
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5027
 #EXTINF:-1 tvg-id="" tvg-name="ITA:SKY SPORT SERI A" tvg-logo="" group-title="ALL SPORT",ITA:SKY SPORT SERI A
@@ -834,26 +798,11 @@ http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5037
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5038
 #EXTINF:-1 tvg-id="" tvg-name="ITA:SKY SPORT ARENA" tvg-logo="" group-title="ALL SPORT",ITA:SKY SPORT ARENA
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5039
-#EXTINF:-1 tvg-id="" tvg-name="ITA:SKY CINEMA UNO" tvg-logo="" group-title="ITALIAN",ITA:SKY CINEMA UNO
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5041
+
 #EXTINF:-1 tvg-id="" tvg-name="ITA:SKY CINEMA COMEDY" tvg-logo="" group-title="ITALIAN",ITA:SKY CINEMA COMEDY
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5042
 #EXTINF:-1 tvg-id="" tvg-name="ITA:SKY CINEMA 1" tvg-logo="" group-title="ITALIAN",ITA:SKY CINEMA 1
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5043
-#EXTINF:-1 tvg-id="" tvg-name="ITA:SKY CINEMA HD" tvg-logo="" group-title="ITALIAN",ITA:SKY CINEMA HD
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5044
-#EXTINF:-1 tvg-id="" tvg-name="ITA:PREMIUM CINEMA" tvg-logo="" group-title="ITALIAN",ITA:PREMIUM CINEMA
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5045
-#EXTINF:-1 tvg-id="" tvg-name="ITA:PREMIUM CRIME" tvg-logo="" group-title="ITALIAN",ITA:PREMIUM CRIME
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5046
-#EXTINF:-1 tvg-id="" tvg-name="ITA:PREMIUM STORIES 24" tvg-logo="" group-title="ITALIAN",ITA:PREMIUM STORIES 24
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5047
-#EXTINF:-1 tvg-id="" tvg-name="ITA:PREMIUM ACTION" tvg-logo="" group-title="ITALIAN",ITA:PREMIUM ACTION
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5048
-#EXTINF:-1 tvg-id="" tvg-name="ITA:PREMIUM EMOTION" tvg-logo="" group-title="ITALIAN",ITA:PREMIUM EMOTION
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5049
-#EXTINF:-1 tvg-id="" tvg-name="ITA:PREMIUM ENERGY" tvg-logo="" group-title="ITALIAN",ITA:PREMIUM ENERGY
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/5050
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HR:ARENA SPORT 1" tvg-logo="" group-title="ALL SPORT",HR:ARENA SPORT 1
