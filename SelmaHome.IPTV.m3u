@@ -1,13 +1,11 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/xk/tvim.tv.epg.xml"
-#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="TV Kombëtare",TV Kombëtareᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="ALBANIEN",TV Kombëtareᴴᴰ
 http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=0
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="ALBANIEN",INFO KABLLOR 1ᴴᴰ📺👌
 https://cdn.kapwing.com/final_620daaf8b98414008ffeed0d_353209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://i.postimg.cc/ZR2dNcBK/RTK-1.png" group-title="ALBANIEN",RTK 1 
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://i.postimg.cc/dtYg8MDw/RTK1.png" group-title="ALBANIEN",RTK 1 
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1988
-#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://i.postimg.cc/ZR2dNcBK/RTK-1.png" group-title="ALBANIEN",RTK 1 
-http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4582
 #EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://i.postimg.cc/s20QFcJ9/RTV-21.png" group-title="ALBANIEN",RTV 21 HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24101
 #EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://i.postimg.cc/zDTBp54k/KTV.png" group-title="ALBANIEN",KTV Kohavision 
@@ -61,9 +59,9 @@ http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4593
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4599
 #EXTINF:-1 tvg-id="" tvg-name="AL:Uskana" tvg-logo="" group-title="ALBANIEN",Uskana Music
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24062
-EXTINF:-1 tvg-id="" tvg-name="XK:RTV ZiK" tvg-logo="" group-title="KOSOVA",RTV Ziko
+EXTINF:-1 tvg-id="" tvg-name="XK:RTV ZiK" tvg-logo="" group-title="ALBANIEN",RTV Ziko
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1992
-#EXTINF:-1 tvg-id="" tvg-name="XK:TV Dielli" tvg-logo="" group-title="KOSOVA",TV Dielli
+#EXTINF:-1 tvg-id="" tvg-name="XK:TV Dielli" tvg-logo="" group-title="ALBANIEN",TV Dielli
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1994
 #EXTINF:-1 tvg-id="" tvg-name="AL:TV Drita" tvg-logo="" group-title="ALBANIEN",TV Drita
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24067
@@ -77,7 +75,7 @@ http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4579
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/754
 #EXTINF:-1 tvg-id="" tvg-name="AL:RTV ISLAM" tvg-logo="" group-title="ALBANIEN",RTV ISLAM
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4587
-#EXTINF:-1 tvg-id="" tvg-name="XK:TV Opoja" tvg-logo="" group-title="KOSOVA",TV Opoja
+#EXTINF:-1 tvg-id="" tvg-name="XK:TV Opoja" tvg-logo="" group-title="ALBANIEN",TV Opoja
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1995
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/c4HJWYrF/AKSION.png" group-title="ALBANIEN", Film Aksion FHD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24097
